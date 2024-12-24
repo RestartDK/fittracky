@@ -20,9 +20,6 @@ importers:
       eslint-plugin-react:
         specifier: ^7.37.2
         version: 7.37.2(eslint@9.17.0)
-      globals:
-        specifier: ^15.14.0
-        version: 15.14.0
 
   backend:
     dependencies:
