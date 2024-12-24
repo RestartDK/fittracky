@@ -6,6 +6,6 @@
     "module": "ESNext",
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "moduleResolution": "nodenext"
+    "moduleResolution": "bundler"
   }
 }
